@@ -1,6 +1,23 @@
 ## Hola mundo 👋
 
-###Me llamo Alesis y esta es una introduccion personal.
+Soy estudiante/apasionado por la tecnología y actualmente estoy aprendiendo **Git**, **HTML/CSS**, **JavaScript** y mucho más.  
+Este es mi espacio personal en GitHub, donde compartiré mis proyectos, avances y prácticas.
+
+## 📚 Sobre mí
+
+- 💻 Me interesa el desarrollo web y la programación.
+- 🚀 Estoy construyendo mis propios proyectos para aprender.
+- 🧠 Me gusta entender cómo funcionan las cosas y resolver problemas.
+
+ ### 📂 Algunos de mis proyectos
+
+| [mi-primer-proyecto](https://github.com/alesisrivas/prueba) | Práctica básica con Git y HTML |
+| [Armoon Store](#) | Página moderna de venta de accesorios electrónicos (en desarrollo) |
+
+### 📫 Cómo contactarme
+
+- 📧 Email: alesiscastrojonatan2@gmail.com
+- 💼 LinkedIn: Alesis Rivas
 
 <!--
 **alesisrivas/alesisrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
