@@ -6,7 +6,7 @@ Este es mi espacio personal en GitHub, donde compartiré mis proyectos, avances 
 ## 📚 Sobre mí
 
 - 💻 Me interesa el desarrollo web y la programación.
-- 🚀 Estoy construyendo mis propios proyectos para aprender.
+- 🚀 Estoy construyendo mis propios proyectos para aprender y mejorar mi logica.
 - 🧠 Me gusta entender cómo funcionan las cosas y resolver problemas.
 
  ### 📂 Algunos de mis proyectos
@@ -16,7 +16,7 @@ Este es mi espacio personal en GitHub, donde compartiré mis proyectos, avances 
 
 ### 📫 Cómo contactarme
 
-- 📧 Email: alesiscastrojonatan2@gmail.com
+- 📧 Email: alesisrivasdangelo@gmail.com
 - 💼 LinkedIn: Alesis Rivas
 
 <!--
